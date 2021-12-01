@@ -4,7 +4,7 @@
 
 <ul>
   <li>Just clone this repo and start working on your <strong>React Native</strong> project! 🚀</li>
-  <li>This app contains basic setup of <strong>drawer, bottom tab and stack navigation</strong> already setup along with <strong>customized drawer</strong> to ease your process.</li>
+  <li>This app contains <strong>drawer, bottom tab and stack navigation</strong> already setup along with <strong>customized drawer</strong> to ease your process.</li>
 </ul>
 
 <br>
